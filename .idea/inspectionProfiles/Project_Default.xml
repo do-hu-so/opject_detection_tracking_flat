@@ -1,0 +1,16 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="test.extract_feature_space" />
+          <option value="test.extract_segmented_image" />
+          <option value="scipy.misc.imresize" />
+          <option value="PyQt5.QtMultimedia.stateChanged.connect" />
+          <option value="video_license.cap" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
